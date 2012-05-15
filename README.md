@@ -1,4 +1,5 @@
 # 我的第一个GitHub项目
+暂时是用来放我SPOJ上的代码的>_<
 
 这是项目 [Neroysq's SPOJ](https://github.com/Neroysq/Neroysq-SPOJ) ，
 欢迎访问。
