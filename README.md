@@ -1,5 +1,7 @@
 # 我的第一个GitHub项目
 暂时是用来放我SPOJ上的代码的>_<
+如果你有任何问题，或者想要和我交朋友，欢迎致信'Neroysq@163.com'或者'yaosiqiu@gmail.com'。
+[我的blog（暂时）](http://neroysq.blogcn.com)
 
 这是项目 [Neroysq's SPOJ](https://github.com/Neroysq/Neroysq-SPOJ) ，
 欢迎访问。
