@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+Neroysq-SPOJ
+============
+
+Neroysq's SPOJ codes
+=======
 # 我的第一个GitHub项目
 我是Neroysq
 暂时是用来放我SPOJ上的代码的>_<
@@ -18,3 +24,4 @@
 * HTTP协议: `https://Neroysq@github.com/Neroysq/Neroysq-SPOJ.git` 。
 * Git协议: `git://github.com/Neroysq/Neroysq-SPOJ.git` 。
 * SSH协议: `ssh://git@github.com:Neroysq/Neroysq-SPOJ.git` 。
+>>>>>>> e88963d1749706bc1fdfb0a601a4572bf8c79bc6
