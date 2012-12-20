@@ -4,24 +4,29 @@ Neroysq-SPOJ
 
 Neroysq's SPOJ codes
 =======
-# ÎÒµÄµÚÒ»¸öGitHubÏîÄ¿
-ÎÒÊÇNeroysq
-ÔÝÊ±ÊÇÓÃÀ´·ÅÎÒSPOJÉÏµÄ´úÂëµÄ>_<
-Èç¹ûÄãÓÐÈÎºÎÎÊÌâ£¬»òÕßÏëÒªºÍÎÒ½»ÅóÓÑ£¬»¶Ó­ÖÂÐÅ'Neroysq@163.com'»òÕß'yaosiqiu@gmail.com'¡£
-[ÎÒµÄblog£¨ÔÝÊ±£©](http://neroysq.blogcn.com)
+# æˆ‘çš„ç¬¬ä¸€ä¸ªGitHubé¡¹ç›®(My first GitHub project)
+æˆ‘æ˜¯Neroysq(I'm Neroysq)
 
-ÕâÊÇÏîÄ¿ [Neroysq's SPOJ](https://github.com/Neroysq/Neroysq-SPOJ) £¬
-»¶Ó­·ÃÎÊ¡£
+è¿™ä¸ªé¡¹ç›®æ˜¯ç”¨æ¥æ”¾æˆ‘SPOJä¸Šçš„ä»£ç çš„>_<(I put my codes on SPOJ here)
 
-Õâ¸öÏîÄ¿µÄ°æ±¾¿âÊÇ **Git¸ñÊ½** £¬ÔÚ Windows¡¢Linux¡¢Mac OS X
-Æ½Ì¨¶¼ÓÐ¿Í»§¶Ë¹¤¾ß¿ÉÒÔ·ÃÎÊ¡£ËäÈ»°æ±¾¿âÖ»Ìá¹©GitÒ»ÖÖ¸ñÊ½£¬
-µ«ÊÇÄã»¹ÊÇ¿ÉÒÔÓÃÆäËûÓÃÆäËû¹¤¾ß·ÃÎÊ£¬Èç ``svn`` ºÍ ``hg`` ¡£
+å¦‚æžœä½ æœ‰ä»»ä½•é—®é¢˜ï¼Œæˆ–è€…æƒ³è¦å’Œæˆ‘äº¤æœ‹å‹ï¼Œæ¬¢è¿Žè‡´ä¿¡'yaosiqiu@gmail.com'ã€‚
 
-## °æ±¾¿âµØÖ·
+If you have any questions or just wanna a new friend, E-mail is welcome.My Email address is 'yaosiqiu@gmail.com'.
 
-Ö§³ÖÈýÖÖ·ÃÎÊÐ­Òé£º
+[æˆ‘çš„blog(my blog)](http://www.neroysq.com)
 
-* HTTPÐ­Òé: `https://Neroysq@github.com/Neroysq/Neroysq-SPOJ.git` ¡£
-* GitÐ­Òé: `git://github.com/Neroysq/Neroysq-SPOJ.git` ¡£
-* SSHÐ­Òé: `ssh://git@github.com:Neroysq/Neroysq-SPOJ.git` ¡£
+è¿™æ˜¯é¡¹ç›® [Neroysq's SPOJ](https://github.com/Neroysq/Neroysq-SPOJ) ï¼Œ
+æ¬¢è¿Žè®¿é—®ã€‚
+
+è¿™ä¸ªé¡¹ç›®çš„ç‰ˆæœ¬åº“æ˜¯ **Gitæ ¼å¼** ï¼Œåœ¨ Windowsã€Linuxã€Mac OS X
+å¹³å°éƒ½æœ‰å®¢æˆ·ç«¯å·¥å…·å¯ä»¥è®¿é—®ã€‚è™½ç„¶ç‰ˆæœ¬åº“åªæä¾›Gitä¸€ç§æ ¼å¼ï¼Œ
+ä½†æ˜¯ä½ è¿˜æ˜¯å¯ä»¥ç”¨å…¶ä»–ç”¨å…¶ä»–å·¥å…·è®¿é—®ï¼Œå¦‚ ``svn`` å’Œ ``hg`` ã€‚
+
+## ç‰ˆæœ¬åº“åœ°å€
+
+æ”¯æŒä¸‰ç§è®¿é—®åè®®ï¼š
+
+* HTTPåè®®: `https://Neroysq@github.com/Neroysq/Neroysq-SPOJ.git` ã€‚
+* Gitåè®®: `git://github.com/Neroysq/Neroysq-SPOJ.git` ã€‚
+* SSHåè®®: `ssh://git@github.com:Neroysq/Neroysq-SPOJ.git` ã€‚
 >>>>>>> e88963d1749706bc1fdfb0a601a4572bf8c79bc6
