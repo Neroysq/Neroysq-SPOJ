@@ -11,7 +11,7 @@ Neroysq's SPOJ codes
 
 如果你有任何问题，或者想要和我交朋友，欢迎致信'yaosiqiu@gmail.com'。
 
-If you have any questions or just wanna a new friend, E-mail is welcome.My Email address is 'yaosiqiu@gmail.com'.
+If you have any question or just wanna a new friend, E-mail is welcome.My Email address is 'yaosiqiu@gmail.com'.
 
 [我的blog(my blog)](http://www.neroysq.com)
 
